@@ -1,0 +1,7 @@
+google.com
+google.com.hk
+google.com.tw
+googleapis.com
+googletagmanager.com
+googleusercontent.com
+googlevideo.com
